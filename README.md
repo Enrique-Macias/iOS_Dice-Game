@@ -1,3 +1,6 @@
+  <img src="https://github.com/Enrique-Macias/iOS_Dice-Game/blob/main/App-Imgs/dados-portada.svg">
+
+
 # Dados App
 
 ## Description
